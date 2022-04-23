@@ -51,6 +51,7 @@ wordpress/.htaccess
 ### Client
 client/node_modules
 client/client-wp-ng/node_modules
+client/client-wp-ng/.angular
 
 ### Global
 .DS_Store
