@@ -48,9 +48,9 @@ wordpress/.htaccess
 #/wp-content/themes
 
 
-### Angular ( client )
+### Client
 client/node_modules
-
+client/client-wp-ng/node_modules
 
 ### Global
 .DS_Store
